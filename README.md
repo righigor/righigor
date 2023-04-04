@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 
 
-[![Righigor's GitHub stats](https://github-readme-stats.vercel.app/api?username=righigor)](https://github.com/righigor/github-readme-stats&count_private=true&show_icons=true&theme=dark)
+[![Righigor's GitHub stats](https://github-readme-stats.vercel.app/api?username=righigor)](https://github.com/righigor/github-readme-stats&count_private=true&show_icons=true&theme=dracula)
+
+
