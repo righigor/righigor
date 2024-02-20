@@ -6,12 +6,12 @@
 - 🌱 Currently learning React and Node.js
 - 💼 Seeking opportunities in web development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-righi/) | [Twitter](https://twitter.com/righigor) | [Instagram](https://www.instagram.com/righigor/)
-- 🌐 My portfolio: [Portfolio](https://portifolio-eight-pink.vercel.app/)
+- 🌐 My portfolio: [Portfolio](https://righigordev.netlify.app/)
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-righi/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/righigor)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/righigor/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=appveyor&logoColor=white)](https://portifolio-eight-pink.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=appveyor&logoColor=white)](https://righigordev.netlify.app/)
 
 ## Skills
 
