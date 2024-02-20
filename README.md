@@ -35,7 +35,7 @@ Here are some of most recent projects:
 
 | GitHub Stats                                                                                                   | Most Used Languages                                                                                                    |
 |---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| [![Righigor's GitHub stats](https://github-readme-stats.vercel.app/api?username=righigor)](https://github.com/righigor/github-readme-stats&count_private=true&show_icons=true&theme=dracula) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=righigor&layout=compact&theme=radical) |
+| [![Righigor's GitHub stats](https://github-readme-stats.vercel.app/api?username=righigor&theme=radical)](https://github.com/righigor/github-readme-stats&count_private=true&show_icons=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=righigor&layout=compact&theme=radical) |
 
 
 ## Education
