@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 👨‍💻 Aspiring web developer at Trybe
-- 🌱 Currently learning React and Node.js
+- 👨‍💻 Web development student at Trybe
+- 🌱 Currently learning React, Node.js and Python
 - 💼 Seeking opportunities in web development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-righi/) | [Twitter](https://twitter.com/righigor) | [Instagram](https://www.instagram.com/righigor/)
 - 🌐 My portfolio: [Portfolio](https://righigordev.netlify.app/)
