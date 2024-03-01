@@ -12,6 +12,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/righigor)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/righigor/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=appveyor&logoColor=white)](https://righigordev.netlify.app/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015fc7b26dffd7fb5b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:righigordev@gmail.com)
 
 ## Skills
