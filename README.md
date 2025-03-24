@@ -75,4 +75,38 @@ A **RESTful API** for a blogging platform, built with **Node.js, Express, and Se
 
 ---
 
+## 🌎 Languages  
+
+- **Portuguese:** 🇧🇷 Native  
+- **English:** 🇺🇸 Fluent  
+- **German:** 🇩🇪 Basic  
+
+---
+
+## 📊 GitHub Stats  
+
+| GitHub Stats                                                                                                   | Most Used Languages                                                                                                    |
+|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| ![Righigor's GitHub stats](https://github-readme-stats.vercel.app/api?username=righigor&theme=radical&count_private=true&show_icons=true) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=righigor&layout=compact&theme=radical) |
+
+---
+
+## 🎓 Education  
+
+### **📌 Software Engineering**  
+📍 **PUC Minas** | **02/2025 - Present (12/2028)**  
+
+### **📌 Full Stack Web Development**  
+📍 **Trybe** | **2023 - 2024**  
+✅ 380+ hours of hands-on experience with:  
+- **JavaScript, TypeScript, React, Redux, Node.js, MySQL**  
+- **REST APIs, Automated Testing, Agile Methodologies**  
+- **Soft Skills & Career Development (25h)**  
+
+### **📌 CS50: Introduction to Computer Science**  
+📍 **Harvard University / Fundação Estudar** | **2024**  
+✅ 70+ hours covering: **Algorithms, Data Structures, Python, C, SQL, Web Development**  
+
+---
+
 🔥 **Let's connect!** Feel free to reach out! 🚀  
