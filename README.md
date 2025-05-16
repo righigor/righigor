@@ -40,9 +40,6 @@
 
 ## 🚀 Projects  
 
-### 🛍️ [Brasiliela - E-commerce Platform](https://www.brasiliela.com.br)  
-A modern and scalable e-commerce platform built with **React, Tailwind CSS, Node.js, and Drizzle ORM**.
-
 ### 🏠 [Landing Page - JBRG Advocacia](https://www.jbrg.adv)  
 A professional landing page built for a law firm using **Next.js and Tailwind CSS**.
 
