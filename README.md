@@ -5,7 +5,6 @@
 - 👨‍💻 Front-End Developer | Software Engineer 
 - 🎓 Studying **Software Engineering** at **PUC Minas**  
 - 🎓 Graduated in **Full Stack Web Development** at **Trybe**  
-- 🚀 Passionate about building **modern, scalable** web applications  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-righi/) | [Twitter](https://twitter.com/righigor) | [Instagram](https://www.instagram.com/righigor/)  
 - 🌐 My portfolio: [Portfolio](https://righigordev.netlify.app/)  
 
@@ -31,7 +30,7 @@
 ![POO](https://img.shields.io/badge/Object--Oriented%20Programming-0078D4?style=for-the-badge&logo=oop&logoColor=white) ![SOLID](https://img.shields.io/badge/SOLID-FF5733?style=for-the-badge&logo=solid&logoColor=white)  
 
 ### DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)  
 
 ### Agile & Project Management  
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrum&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-00875F?style=for-the-badge&logo=kanban&logoColor=white) ![Agile Methodologies](https://img.shields.io/badge/Agile-0E76A8?style=for-the-badge&logo=agile&logoColor=white)  
@@ -70,18 +69,37 @@ A **RESTful API** for a blogging platform, built with **Node.js, Express, and Se
 ## 🎓 Education  
 
 ### **📌 Software Engineering**  
-📍 **PUC Minas** | **02/2025 - Present (12/2028)**  
+📍 **PUC Minas** | **Feb 2025 – Dec 2028** *(Ongoing)*  
+Bachelor’s degree focused on software architecture, algorithms, object-oriented programming, data structures, and software requirements engineering.  
+
+### **📌 Google Cloud Computing Foundations**  
+📍 **GCCF Academy Brazil – Google Cloud** | **May 2025**   
+Introductory certification focused on core cloud computing concepts and hands-on labs using Google Cloud services.  
+✅ ~40 hours over 5 weeks, including:  
+- 4 on-demand learning modules  
+- 4 hands-on lab modules (Skill Badges)  
+- Live sessions with Google Cloud engineers (Study Jams)  
+- Topics: **Cloud infrastructure, virtualization, containers, cloud-native app development, basic scripting and SQL**  
+- Designed for entry-level roles in **Cloud Engineering, DevOps, and IT Infrastructure**  
 
 ### **📌 Full Stack Web Development**  
-📍 **Trybe** | **2023 - 2024**  
-✅ 380+ hours of hands-on experience with:  
-- **JavaScript, TypeScript, React, Redux, Node.js, MySQL**  
-- **REST APIs, Automated Testing, Agile Methodologies**  
-- **Soft Skills & Career Development (25h)**  
+📍 **Trybe** | **2023 – 2024**  
+Intensive bootcamp with 1,500+ hours of technical and behavioral training.  
+✅ Practical experience with:  
+- **JavaScript, TypeScript, React, Redux, Node.js, Express, MySQL**  
+- RESTful API development, automated testing (Jest), Git, Agile methodologies  
+- Deployment of full-stack web applications  
+- Test-Driven Development (TDD)  
+- **25+ hours of soft skills and career development training**  
 
 ### **📌 CS50: Introduction to Computer Science**  
 📍 **Harvard University / Fundação Estudar** | **2024**  
-✅ 70+ hours covering: **Algorithms, Data Structures, Python, C, SQL, Web Development**  
+70+ hour foundational course on computer science and programming.  
+✅ Topics covered:  
+- **Algorithms, Data Structures, C, Python, SQL, HTML, CSS, JavaScript**  
+- Computational thinking, memory management, recursion  
+- Real-world problem solving with code  
+
 
 ---
 
