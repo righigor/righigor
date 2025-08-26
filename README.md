@@ -1,4 +1,4 @@
-# Hi there, I'm Igor Righi 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Igor%20Righi%20👋&section=header&textBg=false&fontSize=60&animation=scaleIn&descAlign=60&reversal=false)
 
 ## About Me
 
@@ -37,16 +37,23 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/righigor/righigor/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/righigor/righigor/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/righigor/righigor/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+---
+
 ## 🚀 Projects  
 
-### 🏠 [Landing Page - JBRG Advocacia](https://www.jbrg.adv)  
-A professional landing page built for a law firm using **Next.js and Tailwind CSS**.
+### 🚚 [Sistema de Logística de Entrega de Mercadorias](https://github.com/righigor/tp-aeds-slem)  
+Academic project developed in **C++ with OOP**, simulating a logistics system for managing orders, locations, and vehicles.  
 
-### 🔥 [Delivery App](https://github.com/righigor/rocketseat/tree/main/nlw-expert/delivery-app)  
-A full-stack application simulating a delivery service, integrating **React, Node.js, and MySQL**.
-
-### 📝 [Blog API](https://github.com/righigor/trybe-exercicios/tree/main/03-Back-End/Secao06-NodeJS-ORM-e-Autenticacao/Dia05-Projeto-API-de-Blogs)  
-A **RESTful API** for a blogging platform, built with **Node.js, Express, and Sequelize**.
+### 🤖 [Crypto Trading Bot - Binance](https://github.com/righigor/bot-cripto)  
+An automated trading bot integrated with the **Binance API**, built with **Node.js**, capable of executing strategies for buying and selling cryptocurrencies.  
 
 ---
 
@@ -101,6 +108,4 @@ Intensive bootcamp with 1,500+ hours of technical and behavioral training.
 - Real-world problem solving with code  
 
 
----
-
-🔥 **Let's connect!** Feel free to reach out! 🚀  
+![🔥 **Let's connect!** Feel free to reach out! 🚀](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=🔥%20Let's%20connect!%20Feel%20free%20to%20reach%20out!%20🚀&section=footer&textBg=false&fontSize=40&animation=fadeIn&descAlign=60&reversal=false)
