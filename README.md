@@ -3,7 +3,7 @@
 ## About Me
 
 - 👨‍💻 Front-End Developer | Software Engineer 
-- 🎓 Studying **Software Engineering** at **PUC Minas**  
+- 🎓 Studying **Computer Engineering** at **CEFET-MG**  
 - 🎓 Graduated in **Full Stack Web Development** at **Trybe**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-righi/) | [Twitter](https://twitter.com/righigor) | [Instagram](https://www.instagram.com/righigor/)  
 - 🌐 My portfolio: [Portfolio](https://righigordev.netlify.app/)  
@@ -75,9 +75,13 @@ An automated trading bot integrated with the **Binance API**, built with **Node.
 
 ## 🎓 Education  
 
+### **📌 Computer Engineering**  
+📍 **CEFET-MG (Centro Federal de Educação Tecnológica de Minas Gerais)** | **Aug 2025 – Present** *(Ongoing)*  
+Bachelor’s degree focused on computer systems, algorithms, software engineering, and embedded systems.  
+
 ### **📌 Software Engineering**  
-📍 **PUC Minas** | **Feb 2025 – Dec 2028** *(Ongoing)*  
-Bachelor’s degree focused on software architecture, algorithms, object-oriented programming, data structures, and software requirements engineering.  
+📍 **PUC Minas** | **Feb 2025 – Jul 2025** *(Transferred)*  
+Bachelor’s degree with emphasis on software architecture, algorithms, and software design principles.  
 
 ### **📌 Google Cloud Computing Foundations**  
 📍 **GCCF Academy Brazil – Google Cloud** | **May 2025**   
