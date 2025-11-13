@@ -5,8 +5,9 @@
 - 👨‍💻 Front-End Developer | Software Engineer 
 - 🎓 Studying **Computer Engineering** at **CEFET-MG**  
 - 🎓 Graduated in **Full Stack Web Development** at **Trybe**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-righi/) | [Twitter](https://twitter.com/righigor) | [Instagram](https://www.instagram.com/righigor/)  
-- 🌐 My portfolio: [Portfolio](https://righigordev.netlify.app/)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/igor-righi/) | [Twitter](https://twitter.com/righigor) | [Instagram](https://www.instagram.com/righigor/) 
+- 🌐 My portfolio: [Portfolio](https://righigordev.netlify.app/)
+- 🌐 Google Cloud Profile: [Profile](https://www.cloudskillsboost.google/public_profiles/c072719e-e256-4d1f-be2b-0fc470a3da0e)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-righi/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/righigor)
